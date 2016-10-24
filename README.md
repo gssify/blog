@@ -5,7 +5,7 @@
 - [x] [一行命令解决博客文章标题](https://github.com/gssan/blog/issues/3)
 
 ### JavaScript
-- [] [touch-action的作用](#)
+- [ ] [touch-action的作用](#)
 
 ### CSS2&3
 - [x] [如何正确实现换行和省略号](https://github.com/gssan/blog/issues/2)
